@@ -1,0 +1,1 @@
+give @p rotten_flesh[item_name="Ancient Rations",food={nutrition:2,saturation:2},lore=[{"color":"gray","italic":true,"text":"Barely Edible"}]] 1

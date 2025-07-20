@@ -1,0 +1,44 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:trident",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "item_name": {
+                  "bold": true,
+                  "color": "#0800FF",
+                  "text": "Brick Breaker"
+                },
+                "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:attribute_modifiers",
+                    "minecraft:unbreakable"
+                  ]
+                },
+                "minecraft:custom_data": {
+                  "tags": "brick_breaker"
+                },
+                "minecraft:unbreakable": {},
+                "minecraft:lore": [
+                  {
+                    "color": "#3030FF",
+                    "italic": true,
+                    "text": "Breaks cracked stone bricks"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "functions": []
+}

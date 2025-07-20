@@ -1,0 +1,1 @@
+give @p tripwire_hook[tool={default_mining_speed:1,damage_per_block:1,rules:[{speed:200,correct_for_drops:false,blocks:"iron_door"}]},item_name="Iron Key",lore=[{"italic":true,"text":"Punch open iron doors"}],max_damage=1,max_stack_size=1,damage=0,can_break=[{blocks:"iron_door"}],tooltip_display={hidden_components:["can_break","max_stack_size","tool"]}] 1

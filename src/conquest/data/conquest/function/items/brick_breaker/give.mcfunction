@@ -1,0 +1,1 @@
+loot give @s loot conquest:items/give_brick_breaker

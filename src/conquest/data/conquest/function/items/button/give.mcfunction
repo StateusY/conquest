@@ -1,0 +1,1 @@
+give @p polished_blackstone_button[can_place_on=[{blocks:"magma_block"}],lore=[{"italic":true,"text":"Place on Magma Blocks"}],tooltip_display={hidden_components:["can_place_on"]},item_name={"color":"#FF760D","text":"Magma Trigger"}] 1

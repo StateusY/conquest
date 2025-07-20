@@ -1,0 +1,1 @@
+function conquest:items/brick_breaker/destroy_bricks

@@ -1,0 +1,1 @@
+execute at @e[type=marker,tag=spawnpoint] as @a[distance=..3,gamemode=adventure] unless score @s cq.current_spawnpoint = @e[type=marker,tag=spawnpoint,limit=1,sort=nearest] cq.spawnpoint_id run function conquest:mobs/player_spawnpoint/set_player_spawn

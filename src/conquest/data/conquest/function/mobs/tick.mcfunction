@@ -1,0 +1,1 @@
+function conquest:mobs/player_spawnpoint/detect_player

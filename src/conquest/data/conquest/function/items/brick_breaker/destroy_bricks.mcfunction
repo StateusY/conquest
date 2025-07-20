@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:trident] at @s if data entity @s {item:{components:{"minecraft:custom_data":{tags:"brick_breaker"}}}} run fill ~-1 ~-1 ~-1 ~1 ~1 ~1 minecraft:light[level=0] replace minecraft:cracked_stone_bricks
